@@ -1,0 +1,13 @@
+{
+  "name": "perfect-node-dev",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2"
+  },
+  "devDependencies": {
+    "chokidar": "^1.0.1",
+    "forever-monitor": "^1.5.2",
+    "gulp": "^3.8.11",
+    "gulp-livereload": "^3.8.0"
+  }
+}
